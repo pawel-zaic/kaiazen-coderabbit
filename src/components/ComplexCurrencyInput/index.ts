@@ -1,1 +1,0 @@
-export { ComplexCurrencyInput } from './ComplexCurrencyInput';
